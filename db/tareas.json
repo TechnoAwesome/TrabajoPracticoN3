@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Calculadora",
+    "estado": "Terminado"
+  },
+  {
+    "titulo": "Objetos Literales",
+    "estado": "Terminado"
+  },
+  {
+    "titulo": "Ciclo for",
+    "estado": "En progreso"
+  },
+  {
+    "titulo": "Arrow function",
+    "estado": "En progreso"
+  },
+  {
+    "titulo": "Condicional Switch",
+    "estado": "Pendiente"
+  }
+]
